@@ -2,7 +2,10 @@
 
 lancer le dump pour créer et peupler la base
 
-utilisateurs predefini 
+utilisateurs predefini
+
 admin admin
+
 user user
+
 visitor visitor
